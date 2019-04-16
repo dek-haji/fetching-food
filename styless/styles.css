@@ -1,0 +1,19 @@
+body{
+    background-color: grey
+}
+.domEl{
+    
+    border: 2px solid brown;
+    padding: 21px;
+    margin: 2px;
+  
+}
+.foodList{
+    display: flex;
+    justify-content: space-around;
+    text-align: center
+}
+h1{
+    text-align: center;
+
+}
